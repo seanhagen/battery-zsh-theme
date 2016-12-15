@@ -12,3 +12,5 @@ So I did that:
 ![](/screenshot-2.png)
 
 Enjoy!
+
+**Warning** This only works on Debian-based laptops ( only tested on Linux Mint ).
