@@ -9,5 +9,6 @@ my [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) theme.
 So I did that:
 
 ![](/screenshot.png)
+![](/screenshot-2.png)
 
 Enjoy!
